@@ -1,0 +1,16 @@
+form {
+    max-width: 720px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+form button.small {
+    padding: 8px 17px;
+}
+#phonebook {
+    margin: 40px auto;
+    max-width: 720px;
+}
+#phonebook button.tiny {
+    margin-bottom: 0;
+    padding: 5px 10px;
+}
