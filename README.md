@@ -21,12 +21,12 @@ Yii + Angularjs
 
 ```php
 'db'=>array(
-			'connectionString' => 'mysql:host=127.0.0.1;dbname=resmi',
-			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
-			'charset' => 'utf8',
-		),
+    'connectionString' => 'mysql:host=127.0.0.1;dbname=resmi',
+    'emulatePrepare' => true,
+    'username' => 'root',
+    'password' => '',
+    'charset' => 'utf8',
+),
 ```
 
 Север
